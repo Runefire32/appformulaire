@@ -1,6 +1,6 @@
 
 
-* ...
+
 # appformulaire
 # The Hacking Project -
 
